@@ -23,9 +23,6 @@
 - CABasicAnimation
 - Headers
 
-## Spread the word!
-Liked the project? Just give it a star ⭐️ and spread the word!
-
 ## Reach me via 👇🏻
 -------------------     ----------------------------
 * E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;4218820@gmail.com
