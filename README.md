@@ -14,6 +14,9 @@
 ## Languages / Frameworks Used
 - Swift 5
 - UIKit
+- UICollectionView
+- UICollectionViewFlowLayout
+- UserDefaults
 
 
 ## Reach me via 👇🏻
