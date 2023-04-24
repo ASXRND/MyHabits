@@ -14,14 +14,7 @@
 ## Languages / Frameworks Used
 - Swift 5
 - UIKit
-- UITableView
-- UICollectionView
-- ValidEmail
-- UITapGestureRecognizer
-- Animate
-- CAGradientLayer
-- CABasicAnimation
-- Headers
+
 
 ## Reach me via 👇🏻
 -------------------     ----------------------------
